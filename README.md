@@ -3,10 +3,10 @@
 ## Screenshots
 
 ### Home Screen
-![Home Screen](images/home_screen.png)
+![Home Screen](images/screen 1.jpg)
 
 ### Product List
-![Product List](images/product_list.png)
+![Product List](images/screen 2.jpg)
 
 ### Product Details
-![Product Details](images/product_details.png)
+![Product Details](images/screen 3.jpg)
