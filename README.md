@@ -2,17 +2,19 @@
 
 ## Screenshots
 
-### Home Screen
-<p align="center">
-  <img src="images/screen%201.jpg" alt="Home Screen" width="500"/>
-</p>
-
-### Product List
-<p align="center">
-  <img src="images/screen%202.jpg" alt="Product List" width="500"/>
-</p>
-
-### Product Details
-<p align="center">
-  <img src="images/screen%203.jpg" alt="Product Details" width="500"/>
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div>
+      <p><strong>Home Screen</strong></p>
+      <img src="images/screen 1.jpg" alt="Home Screen" width="300"/>
+    </div>
+    <div>
+      <p><strong>Product List</strong></p>
+      <img src="images/screen 2.jpg" alt="Product List" width="300"/>
+    </div>
+    <div>
+      <p><strong>Product Details</strong></p>
+      <img src="images/screen 3.jpg" alt="Product Details" width="300"/>
+    </div>
+  </div>
+</div>
