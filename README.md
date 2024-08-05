@@ -1,7 +1,18 @@
+# Project Title
+
 ## Screenshots
 
-<div>
-    <img src="images/screen1.jpg" alt="Home Screen" width="300" style="display: inline-block; margin-right: 10px;" />
-    <img src="images/screen2.jpg" alt="Product List" width="300" style="display: inline-block; margin-right: 10px;" />
-    <img src="images/screen3.jpg" alt="Product Details" width="300" style="display: inline-block;" />
-</div>
+### Home Screen
+<p align="center">
+  <img src="images/screen%201.jpg" alt="Home Screen" width="500"/>
+</p>
+
+### Product List
+<p align="center">
+  <img src="images/screen%202.jpg" alt="Product List" width="500"/>
+</p>
+
+### Product Details
+<p align="center">
+  <img src="images/screen%203.jpg" alt="Product Details" width="500"/>
+</p>
